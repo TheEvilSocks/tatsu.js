@@ -1,0 +1,24 @@
+{
+  "name": "tatsu.js",
+  "version": "0.1.2",
+  "description": "Javascript library for Tatsumaki's api.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheEvilSocks/tatsu.js.git"
+  },
+  "keywords": [
+    "discord",
+    "tatsumaki",
+    "api"
+  ],
+  "author": "TheEvilSocks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheEvilSocks/tatsu.js/issues"
+  },
+  "homepage": "https://github.com/TheEvilSocks/tatsu.js#readme"
+}
