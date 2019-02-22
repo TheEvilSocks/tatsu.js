@@ -1,6 +1,6 @@
 {
   "name": "tatsu.js",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "description": "Javascript library for Tatsumaki's api.",
   "main": "index.js",
   "scripts": {
