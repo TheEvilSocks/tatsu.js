@@ -19,7 +19,7 @@ You can get an API key for Tatsumaki by using `t!apikey` in any Discord server w
 
 # Example
 
-```js
+```javascript
 const Tatsu = require("tatsu.js");
 
 var tatsu = new Tatsu("API_KEY");

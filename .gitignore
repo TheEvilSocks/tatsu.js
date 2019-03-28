@@ -63,3 +63,6 @@ typings/
 driptest\.js
 
 test\.js
+
+jsdoc.conf
+buildDocs.sh
